@@ -1,0 +1,24 @@
+{
+  "name": "assignment-1-bootstrap-and-responsive-design",
+  "version": "1.0.0",
+  "description": "Coursera course",
+  "main": "index.js",
+  "scripts": {
+	"start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hongyil1/Assignment-1-Bootstrap-and-Responsive-Design.git"
+  },
+  "author": "Kent Lin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hongyil1/Assignment-1-Bootstrap-and-Responsive-Design/issues"
+  },
+  "homepage": "https://github.com/Hongyil1/Assignment-1-Bootstrap-and-Responsive-Design#readme",
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  }
+}
